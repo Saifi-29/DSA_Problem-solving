@@ -15,7 +15,7 @@ public:
                     ans = ans + (cnt%mod)*((cnt+1)%mod)/2;
                     return ans;
 
-                    break;
+                    // break;
                 }
                 continue;
             }
